@@ -1,5 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Island+Moments&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Island+Moments&display=swap');
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../../assets/c3a344ae05b4cfecedf4763c33af4aabc0375120\ \(1\).jpg');
+}
+
 .header {
     font-family: Island Moments;
-font-size: 55px;
+    font-size: 55px;
+}
+
+.container p {
+    font-family: Inter;
+    font-size: 32;
 }
