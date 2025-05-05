@@ -5,7 +5,7 @@ const Hero = () => {
     <div className="container">
       <span className="header">LussoVentures</span>{" "}
       <div className="container-one">
-        <p className="SubHeader">Redefining Global Luxury Real Estate</p>
+        <span className="SubHeader">Redefining Global Luxury Real Estate</span>
         <p>
           Lusso Ventures is a private investment fund building iconic living
           experiences in the
