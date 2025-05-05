@@ -4,15 +4,15 @@ const Hero = () => {
   return (
     <div className="container">
       <span className="header">LussoVentures</span>{" "}
-      <p className="SubHeader">Redefining Global Luxury Real Estate</p>
       <div className="container-one">
+        <p className="SubHeader">Redefining Global Luxury Real Estate</p>
         <p>
           Lusso Ventures is a private investment fund building iconic living
           experiences in the
         </p>{" "}
         <span>world's most coveted cities.</span>
+        <button className="btn">Request Investor Access</button>
       </div>
-      <button className="btn">Request Investor Access</button>
     </div>
   );
 };

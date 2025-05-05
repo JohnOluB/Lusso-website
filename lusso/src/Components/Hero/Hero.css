@@ -17,7 +17,7 @@
 .header {
     font-family: Island Moments;
     font-size: 55px;
-margin-bottom: 140px;
+    margin-bottom: 140px;
 }
 
 .SubHeader {
@@ -25,6 +25,7 @@ margin-bottom: 140px;
     font-size: 40px;
     color: white;
     font-family: Inter;
+    margin-bottom: 20px;
 }
 
 .container p {
@@ -35,12 +36,14 @@ margin-bottom: 140px;
 
 .container-one {
     display: flex;
+
     flex-direction: column;
+
 }
 
 .btn {
     padding: 17px;
     border-radius: 6px;
     box-shadow: none;
-
+    width: 300px;
 }
