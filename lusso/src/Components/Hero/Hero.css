@@ -31,7 +31,7 @@
 
 .container-one p {
     font-family: Inter;
-    font-size: 32;
+    /* font-size: 32; */
 }
 
 .container-one {
@@ -41,6 +41,7 @@
 
 .container-one span {
     margin-bottom: 20px;
+    /* font-weight: 200; */
 }
 
 .btn {
@@ -48,4 +49,5 @@
     border-radius: 6px;
     box-shadow: none;
     width: 300px;
+    background-color: #FFD700;
 }
