@@ -28,17 +28,18 @@
     margin-bottom: 20px;
 }
 
-.container p {
+.container-one p {
     font-family: Inter;
     font-size: 32;
-
 }
 
 .container-one {
     display: flex;
-
     flex-direction: column;
+}
 
+.container-one span {
+    margin-bottom: 20px;
 }
 
 .btn {
