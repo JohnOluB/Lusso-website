@@ -17,9 +17,30 @@
 .header {
     font-family: Island Moments;
     font-size: 55px;
+margin-bottom: 140px;
+}
+
+.SubHeader {
+    font-weight: 500;
+    font-size: 40px;
+    color: white;
+    font-family: Inter;
 }
 
 .container p {
     font-family: Inter;
     font-size: 32;
+
+}
+
+.container-one {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn {
+    padding: 17px;
+    border-radius: 6px;
+    box-shadow: none;
+
 }
