@@ -23,28 +23,30 @@
     margin-bottom: 110px;
 }
 
-.SubHeader {
-    font-weight: 500;
-    font-size: 40px;
-    color: white;
-    font-family: Inter;
-    margin-bottom: 20px;
-}
-
-.container-one p {
-    font-family: Inter;
-    /* font-size: 32; */
-}
-
 .container-one {
     display: flex;
     flex-direction: column;
+    font-family: Inter;
+}
+
+.container-one p {
+
+    /* font-size: 32; */
 }
 
 .container-one span {
     margin-bottom: 20px;
     /* font-weight: 200; */
 }
+
+.SubHeader {
+    font-weight: 500;
+    font-size: 40px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+
 
 .btn {
     padding: 17px;
