@@ -27,6 +27,7 @@
     display: flex;
     flex-direction: column;
     font-family: Inter;
+    color: white;
 }
 
 .container-one p {
@@ -42,7 +43,6 @@
 .SubHeader {
     font-weight: 500;
     font-size: 40px;
-    color: white;
     margin-bottom: 20px;
 }
 
@@ -53,5 +53,6 @@
     border-radius: 6px;
     box-shadow: none;
     width: 300px;
+    font-size: 14px;
     background-color: #FFD700;
 }
