@@ -11,7 +11,9 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url('../../assets/background.jpg')
+    background-image: url('../../assets/background.jpg');
+    height: 100vh;
+
 }
 
 .header {
