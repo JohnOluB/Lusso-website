@@ -1,9 +1,15 @@
 import React from "react";
+import "./App.css";
 import Hero from "./Components/Hero/Hero.jsx";
-import './App.css';
+import About from "./Components/About/About.jsx";
 
 const App = () => {
-  return <Hero />;
+  return (
+    <div>
+      <Hero />
+      <About />
+    </div>
+  );
 };
 
 export default App;
